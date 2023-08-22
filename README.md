@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aaksh Chaudhary
+- 👀 I’m interested in Fronend Devlopment, UI/UX Designing, Problem Solving. 
+- 🌱 I’m currently working on React JS, React Native. 
+- 💞️ I’m looking to collaborate on Frontend Projects. 
+- 📫 How to reach me akashchaudhary0201@gmail.com
